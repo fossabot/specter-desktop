@@ -157,6 +157,7 @@ If you're stuck while installing/configuring Specter or you're looking for more 
 ### Select how to connect to Bitcoin network
 
 ![image](https://user-images.githubusercontent.com/47259243/223425374-a3e68ac7-2bdb-48fe-a53b-59f235c59bd1.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fspecter-desktop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fspecter-desktop?ref=badge_shield)
 
 Electrum server or...
 ![image](https://user-images.githubusercontent.com/47259243/223426046-dd225f00-ba18-45cb-871a-40efd7eefc1e.png)
@@ -199,3 +200,7 @@ Send
 
 Settings -> Important for multi-signature wallets. Export printable PDF backup.
 ![image](https://user-images.githubusercontent.com/47259243/223435735-73a440c2-e2e0-4fb7-b755-54e265a4e34c.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fspecter-desktop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fspecter-desktop?ref=badge_large)
